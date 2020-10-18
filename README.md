@@ -1,1 +1,1 @@
-# erlang-x11
+# erlang-x10
